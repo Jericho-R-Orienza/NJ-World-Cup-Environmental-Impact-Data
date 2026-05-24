@@ -1,3 +1,1 @@
-data/PM2.5/*.csv
-data/NO2/*.csv
-data/Ozone/*.csv
+/data
